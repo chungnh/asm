@@ -1,7 +1,7 @@
 .model small
 .stack 100h
 .data
-    msg1 db 10, 13, 'nhap so thu 1: $'
+    msg1 db 10, 13, 'nhap so thu 1 : $'
     msg2 db 10, 13, 'nhap so thu 2 : $'
     msg3 db 10, 13, 'ket qua: $'
     msg4 db 'tran roi $'
